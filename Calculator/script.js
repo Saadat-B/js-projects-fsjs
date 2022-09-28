@@ -2,6 +2,7 @@
 
 let screen = document.querySelector(".textview");
 let string = "";
+
 function insert(num) {
   string = string + num;
   screen.value = string;
