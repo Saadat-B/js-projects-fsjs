@@ -11,6 +11,7 @@ body {
   font-weight: bold;
   background-color: #23c4ed;
   border: none;
+  text-align: right;
 }
 
 .equalButton {
